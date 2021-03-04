@@ -1,4 +1,4 @@
-# LEMP環境
+# LEMP 環境(laravel)
 
 ## usage
 
@@ -17,3 +17,4 @@ $ docker-compose exec app bash
 [app] $ exit
 
 $ docker-compose down
+```
