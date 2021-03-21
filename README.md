@@ -4,7 +4,7 @@
 
 ```
 # GitHubからリポジトリをクローン
-$ git clone https://github.com/AppRyu/docker_LEMP_environment.git
+$ git clone https://github.com/hayato-yoshino/docker_LEMP_environment.git
 $ cd docker_LEMP_environment
 $ docker-compose up -d --build
 $ docker-compose exec app bash
